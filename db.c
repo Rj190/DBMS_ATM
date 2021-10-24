@@ -347,7 +347,7 @@ int main()
 			break;
 
 		default:
-			printf("\nINVALID CHOICE...\n");
+			printf("\nINVALID CHOICE.......\n");
 		}
 	}
 
